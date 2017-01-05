@@ -1,6 +1,6 @@
 [parity]
 chain = "demo-spec.json"
-db_path = "/tmp/parity0"
+base_path = "/tmp/parity0"
 [network]
 port = 30300
 [rpc]
