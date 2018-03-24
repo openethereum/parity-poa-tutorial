@@ -8,8 +8,6 @@ port = 8541
 apis = ["web3", "eth", "net", "personal", "parity", "parity_set", "traces", "rpc", "parity_accounts"]
 [ui]
 port = 8181
-[dapps]
-port = 8081
 [account]
 password = ["node.pwds"]
 [mining]
